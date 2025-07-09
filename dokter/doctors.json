@@ -1,0 +1,702 @@
+[
+  {
+    "name": "dr. Aubrey Beahan, Sp.A",
+    "specialization": "Spesialis Anak (Sp.A)",
+    "hospital": "RSUP DR. SARDJITO",
+    "id": "1",
+    "image": "/images/1.png"
+  },
+  {
+    "name": "dr. Enrique Cremin, Sp.JP",
+    "specialization": "Spesialis Jantung (Sp.JP)",
+    "hospital": "RS UMUM AL DR MINTOHARJO",
+    "id": "2",
+    "image": "/images/2.png"
+  },
+  {
+    "name": "dr. Rosalie Nitzsche, Sp.PD",
+    "specialization": "Spesialis Penyakit Dalam (Sp.PD)",
+    "hospital": "RS UMUM PAD GATOT SOEBROTO",
+    "id": "3",
+    "image": "/images/3.png"
+  },
+  {
+    "name": "dr. Lula Barrows, Sp.B",
+    "specialization": "Spesialis Bedah Umum (Sp.B)",
+    "hospital": "RS UMUM BHAYANGKARA TK. I R.SAID SUKANTO",
+    "id": "4",
+    "image": "/images/4.png"
+  },
+  {
+    "name": "dr. April Prosacco-Hegmann, Sp.BS",
+    "specialization": "Spesialis Bedah Saraf (Sp.BS)",
+    "hospital": "RSUP PERSAHABATAN",
+    "id": "5",
+    "image": "/images/5.png"
+  },
+  {
+    "name": "dr. Daniel Kuhic, Sp.OT",
+    "specialization": "Spesialis Bedah Ortopedi (Sp.OT)",
+    "hospital": "RS PENYAKIT INFEKSI PROF. DR. SULIANTI SAROSO",
+    "id": "6",
+    "image": "/images/6.png"
+  },
+  {
+    "name": "dr. Angel Durgan IV, Sp.KK",
+    "specialization": "Spesialis Kulit dan Kelamin (Sp.KK)",
+    "hospital": "RSUP FATMAWATI",
+    "id": "7",
+    "image": "/images/7.png"
+  },
+  {
+    "name": "dr. Jimmie Cartwright, Sp.M",
+    "specialization": "Spesialis Mata (Sp.M)",
+    "hospital": "RS UMUM DAERAH PASAR MINGGU",
+    "id": "8",
+    "image": "/images/8.png"
+  },
+  {
+    "name": "dr. Kelly Reinger, Sp.THT-KL",
+    "specialization": "Spesialis THT-KL (Sp.THT-KL)",
+    "hospital": "RS UMUM DAERAH CENGKARENG",
+    "id": "9",
+    "image": "/images/9.png"
+  },
+  {
+    "name": "dr. Jennifer Anderson, Sp.P",
+    "specialization": "Spesialis Paru (Sp.P)",
+    "hospital": "RS UMUM DAERAH PROF DR. H. ALOEI SABOE",
+    "id": "10",
+    "image": "/images/10.png"
+  },
+  {
+    "name": "dr. Shari Heaney, Sp.S",
+    "specialization": "Spesialis Saraf (Sp.S)",
+    "hospital": "RS UMUM DAERAH RADEN MATTAHER JAMBI",
+    "id": "11",
+    "image": "/images/11.png"
+  },
+  {
+    "name": "dr. Penny Walter III, Sp.OG",
+    "specialization": "Spesialis Kandungan (Sp.OG)",
+    "hospital": "RS UNIVERSITAS AIRLANGGA",
+    "id": "12",
+    "image": "/images/12.png"
+  },
+  {
+    "name": "dr. Jonathon Ullrich, Sp.GK",
+    "specialization": "Spesialis Gizi Klinik (Sp.GK)",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO",
+    "id": "13",
+    "image": "/images/13.png"
+  },
+  {
+    "name": "dr. Helen Raynor-Schamberger, Sp.KFR",
+    "specialization": "Spesialis Rehabilitasi Medik (Sp.KFR)",
+    "hospital": "RS UMUM DAERAH DR. SOEDONO MADIUN",
+    "id": "14",
+    "image": "/images/14.png"
+  },
+  {
+    "name": "dr. Stuart Rodriguez, Sp.Rad",
+    "specialization": "Spesialis Radiologi (Sp.Rad)",
+    "hospital": "RS UMUM DAERAH DR. SAIFUL ANWAR",
+    "id": "15",
+    "image": "/images/15.png"
+  },
+  {
+    "name": "dr. Brett Langworth, Sp.PK",
+    "specialization": "Spesialis Patologi Klinik (Sp.PK)",
+    "hospital": "RS UMUM DAERAH DR. R. KOESMA TUBAN",
+    "id": "16",
+    "image": "/images/16.png"
+  },
+  {
+    "name": "dr. Amanda Powlowski, Sp.KJ",
+    "specialization": "Spesialis Psikiatri / Jiwa (Sp.KJ)",
+    "hospital": "RS UMUM DAERAH DR. R. SOSODORO DJATIKOESOEMO",
+    "id": "17",
+    "image": "/images/17.png"
+  },
+  {
+    "name": "dr. Willard Metz, Sp.An",
+    "specialization": "Spesialis Anestesi (Sp.An)",
+    "hospital": "RS UMUM DAERAH SIDOARJO",
+    "id": "18",
+    "image": "/images/18.png"
+  },
+  {
+    "name": "dr. Clint Smith, Sp.F",
+    "specialization": "Spesialis Forensik (Sp.F)",
+    "hospital": "RS UMUM DAERAH BLAMBANGAN",
+    "id": "19",
+    "image": "/images/19.png"
+  },
+  {
+    "name": "dr. Marian Kiehn V",
+    "specialization": "Dokter Umum",
+    "hospital": "RS UMUM DAERAH DR. SOEBANDI",
+    "id": "20",
+    "image": "/images/20.png"
+  },
+  {
+    "name": "drg. Steven Wolf",
+    "specialization": "Dokter Gigi Umum",
+    "hospital": "RS UMUM DAERAH KABUPATEN KEDIRI",
+    "id": "21",
+    "image": "/images/21.png"
+  },
+  {
+    "name": "drg. Harriet Kris, Sp.Ort",
+    "specialization": "Dokter Gigi Spesialis Ortodonti",
+    "hospital": "RS UMUM DAERAH DR. ISKAK TULUNGAGUNG",
+    "id": "22",
+    "image": "/images/22.png"
+  },
+  {
+    "name": "drg. Isabel Christiansen, Sp.BM",
+    "specialization": "Dokter Gigi Spesialis Bedah Mulut",
+    "hospital": "RS UMUM DAERAH KOTA YOGYAKARTA",
+    "id": "23",
+    "image": "/images/23.png"
+  },
+  {
+    "name": "drg. Leona Rath Jr., Sp.KG",
+    "specialization": "Dokter Gigi Spesialis Konservasi Gigi",
+    "hospital": "RS UMUM DAERAH WATES",
+    "id": "24",
+    "image": "/images/24.png"
+  },
+  {
+    "name": "drg. Patrick Schuster, Sp.Perio",
+    "specialization": "Dokter Gigi Spesialis Periodonsia",
+    "hospital": "RS UMUM DAERAH PANEMBAHAN SENOPATI",
+    "id": "25",
+    "image": "/images/25.png"
+  },
+  {
+    "name": "dr. Mathew Aufderhar, Sp.A",
+    "specialization": "Spesialis Anak (Sp.A)",
+    "hospital": "RS UMUM DAERAH KABUPATEN KEDIRI",
+    "id": "26",
+    "image": "/images/26.png"
+  },
+  {
+    "name": "dr. Laurence Feil-Wehner II, Sp.P",
+    "specialization": "Spesialis Paru (Sp.P)",
+    "hospital": "RS UMUM DAERAH DR. R. KOESMA TUBAN",
+    "id": "27",
+    "image": "/images/27.png"
+  },
+  {
+    "name": "dr. Gary Hettinger, Sp.THT-KL",
+    "specialization": "Spesialis THT-KL (Sp.THT-KL)",
+    "hospital": "RS UMUM DAERAH DR. SAIFUL ANWAR",
+    "id": "28",
+    "image": "/images/28.png"
+  },
+  {
+    "name": "dr. Lela Watsica-Stokes",
+    "specialization": "Dokter Umum",
+    "hospital": "RS UMUM DAERAH BLAMBANGAN",
+    "id": "29",
+    "image": "/images/29.png"
+  },
+  {
+    "name": "dr. Everett Macejkovic, Sp.GK",
+    "specialization": "Spesialis Gizi Klinik (Sp.GK)",
+    "hospital": "RS UMUM DAERAH DR. SOEBANDI",
+    "id": "30",
+    "image": "/images/30.png"
+  },
+  {
+    "name": "dr. Eduardo Orn, Sp.Rad",
+    "specialization": "Spesialis Radiologi (Sp.Rad)",
+    "hospital": "RS UMUM DAERAH DR. ISKAK TULUNGAGUNG",
+    "id": "31",
+    "image": "/images/31.png"
+  },
+  {
+    "name": "drg. Garry Kulas, Sp.BM",
+    "specialization": "Dokter Gigi Spesialis Bedah Mulut",
+    "hospital": "RS UMUM DAERAH SIDOARJO",
+    "id": "32",
+    "image": "/images/32.png"
+  },
+  {
+    "name": "dr. Catherine Haley, Sp.F",
+    "specialization": "Spesialis Forensik (Sp.F)",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO",
+    "id": "33",
+    "image": "/images/33.png"
+  },
+  {
+    "name": "dr. Myrtle Kertzmann, Sp.JP",
+    "specialization": "Spesialis Jantung (Sp.JP)",
+    "hospital": "RS UNIVERSITAS AIRLANGGA",
+    "id": "34",
+    "image": "/images/34.png"
+  },
+  {
+    "name": "dr. Ruby Kertzmann, Sp.An",
+    "specialization": "Spesialis Anestesi (Sp.An)",
+    "hospital": "RS UMUM DAERAH DR. SOEDONO MADIUN",
+    "id": "35",
+    "image": "/images/35.png"
+  },
+  {
+    "name": "drg. Michael Schuster, Sp.KG",
+    "specialization": "Dokter Gigi Spesialis Konservasi Gigi",
+    "hospital": "RS UMUM DAERAH DR. R. SOSODORO DJATIKOESOEMO",
+    "id": "36",
+    "image": "/images/36.png"
+  },
+  {
+    "name": "dr. Nichole McClure, Sp.KJ",
+    "specialization": "Spesialis Psikiatri / Jiwa (Sp.KJ)",
+    "hospital": "RS UMUM DAERAH BLAMBANGAN",
+    "id": "37",
+    "image": "/images/37.png"
+  },
+  {
+    "name": "dr. Travis Kuphal, Sp.KK",
+    "specialization": "Spesialis Kulit dan Kelamin (Sp.KK)",
+    "hospital": "RS UMUM DAERAH DR. ISKAK TULUNGAGUNG",
+    "id": "38",
+    "image": "/images/38.png"
+  },
+  {
+    "name": "dr. Dana Metz, Sp.M",
+    "specialization": "Spesialis Mata (Sp.M)",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO",
+    "id": "39",
+    "image": "/images/39.png"
+  },
+  {
+    "name": "drg. Ruby Okuneva, Sp.Ort",
+    "specialization": "Dokter Gigi Spesialis Ortodonti",
+    "hospital": "RS UMUM DAERAH DR. SAIFUL ANWAR",
+    "id": "40",
+    "image": "/images/40.png"
+  },
+  {
+    "name": "dr. Glenda Christiansen, Sp.OG",
+    "specialization": "Spesialis Kandungan (Sp.OG)",
+    "hospital": "RS UMUM DAERAH KABUPATEN KEDIRI",
+    "id": "41",
+    "image": "/images/41.png"
+  },
+  {
+    "name": "dr. Kerry Hoeger, Sp.B",
+    "specialization": "Spesialis Bedah Umum (Sp.B)",
+    "hospital": "RS UMUM DAERAH SIDOARJO",
+    "id": "42",
+    "image": "/images/42.png"
+  },
+  {
+    "name": "dr. Irvin Mertz, Sp.PD",
+    "specialization": "Spesialis Penyakit Dalam (Sp.PD)",
+    "hospital": "RS UMUM DAERAH DR. R. KOESMA TUBAN",
+    "id": "43",
+    "image": "/images/43.png"
+  },
+  {
+    "name": "dr. Nettie Roberts, Sp.S",
+    "specialization": "Spesialis Saraf (Sp.S)",
+    "hospital": "RS UMUM DAERAH DR. SAIFUL ANWAR",
+    "id": "44",
+    "image": "/images/44.png"
+  },
+  {
+    "name": "drg. Tomas McCullough",
+    "specialization": "Dokter Gigi Umum",
+    "hospital": "RS UMUM DAERAH DR. SOEBANDI",
+    "id": "45",
+    "image": "/images/45.png"
+  },
+  {
+    "name": "dr. Joyce Langworth, Sp.BS",
+    "specialization": "Spesialis Bedah Saraf (Sp.BS)",
+    "hospital": "RS UMUM DAERAH DR. R. SOSODORO DJATIKOESOEMO",
+    "id": "46",
+    "image": "/images/46.png"
+  },
+  {
+    "name": "dr. Melanie Green, Sp.KFR",
+    "specialization": "Spesialis Rehabilitasi Medik (Sp.KFR)",
+    "hospital": "RS UNIVERSITAS AIRLANGGA",
+    "id": "47",
+    "image": "/images/47.png"
+  },
+  {
+    "name": "dr. Ronald Hyatt, Sp.PK",
+    "specialization": "Spesialis Patologi Klinik (Sp.PK)",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO",
+    "id": "48",
+    "image": "/images/48.png"
+  },
+  {
+    "name": "dr. Doyle Ward, Sp.GK",
+    "specialization": "Spesialis Gizi Klinik (Sp.GK)",
+    "hospital": "RS UMUM DAERAH DR. ISKAK TULUNGAGUNG",
+    "id": "49",
+    "image": "/images/49.png"
+  },
+  {
+    "name": "dr. Dave Bayer, Sp.JP",
+    "specialization": "Spesialis Jantung (Sp.JP)",
+    "hospital": "RS UMUM DAERAH KABUPATEN KEDIRI",
+    "id": "50",
+    "image": "/images/50.png"
+  },
+  {
+    "id": "51",
+    "image": "/images/51.png",
+    "name": "dr. Fadhil Prasetya, Sp.A",
+    "specialization": "Spesialis Anak (Sp.A)",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO"
+  },
+  {
+    "id": "52",
+    "image": "/images/52.png",
+    "name": "dr. Dina Kartika, Sp.P",
+    "specialization": "Spesialis Paru (Sp.P)",
+    "hospital": "RS UMUM DAERAH DR. R. KOESMA TUBAN"
+  },
+  {
+    "id": "53",
+    "image": "/images/53.png",
+    "name": "dr. Rizky Amelia, Sp.KK",
+    "specialization": "Spesialis Kulit dan Kelamin (Sp.KK)",
+    "hospital": "RS UMUM DAERAH SIDOARJO"
+  },
+  {
+    "id": "54",
+    "image": "/images/54.png",
+    "name": "dr. Wahyu Gunawan, Sp.PD",
+    "specialization": "Spesialis Penyakit Dalam (Sp.PD)",
+    "hospital": "RS UNIVERSITAS AIRLANGGA"
+  },
+  {
+    "id": "55",
+    "image": "/images/55.png",
+    "name": "dr. Nadia Rizka, Sp.OG",
+    "specialization": "Spesialis Kandungan (Sp.OG)",
+    "hospital": "RS UMUM DAERAH DR. ISKAK TULUNGAGUNG"
+  },
+  {
+    "id": "56",
+    "image": "/images/56.png",
+    "name": "dr. Arif Nugroho, Sp.S",
+    "specialization": "Spesialis Saraf (Sp.S)",
+    "hospital": "RS UMUM DAERAH DR. SAIFUL ANWAR"
+  },
+  {
+    "id": "57",
+    "image": "/images/57.png",
+    "name": "dr. Dea Wulandari, Sp.Rad",
+    "specialization": "Spesialis Radiologi (Sp.Rad)",
+    "hospital": "RS UMUM DAERAH DR. SOEDONO MADIUN"
+  },
+  {
+    "id": "58",
+    "image": "/images/58.png",
+    "name": "drg. Aditama Syahputra, Sp.KG",
+    "specialization": "Dokter Gigi Spesialis Konservasi Gigi",
+    "hospital": "RS UMUM DAERAH DR. SOEBANDI"
+  },
+  {
+    "id": "59",
+    "image": "/images/59.png",
+    "name": "dr. Khairul Anam, Sp.B",
+    "specialization": "Spesialis Bedah Umum (Sp.B)",
+    "hospital": "RS UMUM DAERAH DR. R. SOSODORO DJATIKOESOEMO"
+  },
+  {
+    "id": "60",
+    "image": "/images/60.png",
+    "name": "dr. Luthfi Hidayat, Sp.KJ",
+    "specialization": "Spesialis Psikiatri / Jiwa (Sp.KJ)",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO"
+  },
+  {
+    "id": "61",
+    "image": "/images/61.png",
+    "name": "dr. Reza Mahendra, Sp.An",
+    "specialization": "Spesialis Anestesi (Sp.An)",
+    "hospital": "RS UMUM DAERAH DR. R. KOESMA TUBAN"
+  },
+  {
+    "id": "62",
+    "image": "/images/62.png",
+    "name": "dr. Adinda Lestari, Sp.OG",
+    "specialization": "Spesialis Kandungan (Sp.OG)",
+    "hospital": "RS UMUM DAERAH SIDOARJO"
+  },
+  {
+    "id": "63",
+    "image": "/images/63.png",
+    "name": "drg. Faiz Ramadhan, Sp.Perio",
+    "specialization": "Dokter Gigi Spesialis Periodonsia",
+    "hospital": "RS UMUM DAERAH DR. SOEBANDI"
+  },
+  {
+    "id": "64",
+    "image": "/images/64.png",
+    "name": "dr. Mutiara Ningsih, Sp.KJ",
+    "specialization": "Spesialis Psikiatri / Jiwa (Sp.KJ)",
+    "hospital": "RS UMUM DAERAH BLAMBANGAN"
+  },
+  {
+    "id": "65",
+    "image": "/images/65.png",
+    "name": "dr. Rahmat Prabowo, Sp.S",
+    "specialization": "Spesialis Saraf (Sp.S)",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO"
+  },
+  {
+    "id": "66",
+    "image": "/images/66.png",
+    "name": "dr. Intan Puspitasari, Sp.M",
+    "specialization": "Spesialis Mata (Sp.M)",
+    "hospital": "RS UMUM DAERAH DR. ISKAK TULUNGAGUNG"
+  },
+  {
+    "id": "67",
+    "image": "/images/67.png",
+    "name": "dr. Agung Santoso, Sp.B",
+    "specialization": "Spesialis Bedah Umum (Sp.B)",
+    "hospital": "RS UMUM DAERAH KABUPATEN KEDIRI"
+  },
+  {
+    "id": "68",
+    "image": "/images/68.png",
+    "name": "dr. Diah Kartika, Sp.BS",
+    "specialization": "Spesialis Bedah Saraf (Sp.BS)",
+    "hospital": "RS UMUM DAERAH DR. R. SOSODORO DJATIKOESOEMO"
+  },
+  {
+    "id": "69",
+    "image": "/images/69.png",
+    "name": "dr. Iqbal Adityo, Sp.KFR",
+    "specialization": "Spesialis Rehabilitasi Medik (Sp.KFR)",
+    "hospital": "RS UMUM DAERAH DR. SAIFUL ANWAR"
+  },
+  {
+    "id": "70",
+    "image": "/images/70.png",
+    "name": "dr. Widya Azzahra, Sp.F",
+    "specialization": "Spesialis Forensik (Sp.F)",
+    "hospital": "RS UMUM DAERAH DR. SOEDONO MADIUN"
+  },
+  {
+    "id": "71",
+    "image": "/images/71.png",
+    "name": "drg. Rian Nurdiansyah, Sp.BM",
+    "specialization": "Dokter Gigi Spesialis Bedah Mulut",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO"
+  },
+  {
+    "id": "72",
+    "image": "/images/72.png",
+    "name": "drg. Sari Wulandari",
+    "specialization": "Dokter Gigi Umum",
+    "hospital": "RS UMUM DAERAH DR. R. KOESMA TUBAN"
+  },
+  {
+    "id": "73",
+    "image": "/images/73.png",
+    "name": "dr. Aldi Prasetya, Sp.PK",
+    "specialization": "Spesialis Patologi Klinik (Sp.PK)",
+    "hospital": "RS UMUM DAERAH BLAMBANGAN"
+  },
+  {
+    "id": "74",
+    "image": "/images/74.png",
+    "name": "dr. Meyza Ardila, Sp.A",
+    "specialization": "Spesialis Anak (Sp.A)",
+    "hospital": "RS UMUM DAERAH DR. SOEBANDI"
+  },
+  {
+    "id": "75",
+    "image": "/images/75.png",
+    "name": "dr. Aditya Suryo, Sp.JP",
+    "specialization": "Spesialis Jantung (Sp.JP)",
+    "hospital": "RS UMUM DAERAH DR. SAIFUL ANWAR"
+  },
+  {
+    "id": "76",
+    "image": "/images/76.png",
+    "name": "dr. Annisa Damayanti, Sp.PD",
+    "specialization": "Spesialis Penyakit Dalam (Sp.PD)",
+    "hospital": "RS UNIVERSITAS AIRLANGGA"
+  },
+  {
+    "id": "77",
+    "image": "/images/77.png",
+    "name": "dr. Ronald Nugroho, Sp.OG",
+    "specialization": "Spesialis Kandungan (Sp.OG)",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO"
+  },
+  {
+    "id": "78",
+    "image": "/images/78.png",
+    "name": "dr. Nadia Rachmawati, Sp.M",
+    "specialization": "Spesialis Mata (Sp.M)",
+    "hospital": "RS UMUM DAERAH SIDOARJO"
+  },
+  {
+    "id": "79",
+    "image": "/images/79.png",
+    "name": "drg. Dimas Fauzan, Sp.Ort",
+    "specialization": "Dokter Gigi Spesialis Ortodonti",
+    "hospital": "RS UMUM DAERAH DR. R. SOSODORO DJATIKOESOEMO"
+  },
+  {
+    "id": "80",
+    "image": "/images/80.png",
+    "name": "dr. Yuliana Ningsih, Sp.KK",
+    "specialization": "Spesialis Kulit dan Kelamin (Sp.KK)",
+    "hospital": "RS UMUM DAERAH KABUPATEN KEDIRI"
+  },
+  {
+    "id": "81",
+    "image": "/images/81.png",
+    "name": "dr. Fikri Anshori, Sp.S",
+    "specialization": "Spesialis Saraf (Sp.S)",
+    "hospital": "RS UMUM DAERAH DR. SOEDONO MADIUN"
+  },
+  {
+    "id": "82",
+    "image": "/images/82.png",
+    "name": "dr. Tasya Permata, Sp.KFR",
+    "specialization": "Spesialis Rehabilitasi Medik (Sp.KFR)",
+    "hospital": "RS UMUM DAERAH DR. SOEBANDI"
+  },
+  {
+    "id": "83",
+    "image": "/images/83.png",
+    "name": "dr. Adnan Syahputra, Sp.Rad",
+    "specialization": "Spesialis Radiologi (Sp.Rad)",
+    "hospital": "RS UMUM DAERAH DR. R. KOESMA TUBAN"
+  },
+  {
+    "id": "84",
+    "image": "/images/84.png",
+    "name": "drg. Vina Salsabila, Sp.KG",
+    "specialization": "Dokter Gigi Spesialis Konservasi Gigi",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO"
+  },
+  {
+    "id": "85",
+    "image": "/images/85.png",
+    "name": "drg. Farel Hidayat",
+    "specialization": "Dokter Gigi Umum",
+    "hospital": "RS UMUM DAERAH DR. ISKAK TULUNGAGUNG"
+  },
+  {
+    "id": "86",
+    "image": "/images/86.png",
+    "name": "dr. Rizky Ramadhan, Sp.An",
+    "specialization": "Spesialis Anestesi (Sp.An)",
+    "hospital": "RS UMUM DAERAH DR. SAIFUL ANWAR"
+  },
+  {
+    "id": "87",
+    "image": "/images/87.png",
+    "name": "dr. Galih Wibisono, Sp.B",
+    "specialization": "Spesialis Bedah Umum (Sp.B)",
+    "hospital": "RS UMUM DAERAH DR. R. SOSODORO DJATIKOESOEMO"
+  },
+  {
+    "id": "88",
+    "image": "/images/88.png",
+    "name": "dr. Vina Suryani, Sp.F",
+    "specialization": "Spesialis Forensik (Sp.F)",
+    "hospital": "RS UMUM DAERAH DR. SOEDONO MADIUN"
+  },
+  {
+    "id": "89",
+    "image": "/images/89.png",
+    "name": "dr. Akbar Nugraha, Sp.P",
+    "specialization": "Spesialis Paru (Sp.P)",
+    "hospital": "RS UMUM DAERAH DR. SAIFUL ANWAR"
+  },
+  {
+    "id": "90",
+    "image": "/images/90.png",
+    "name": "dr. Eliza Winata, Sp.PK",
+    "specialization": "Spesialis Patologi Klinik (Sp.PK)",
+    "hospital": "RS UNIVERSITAS AIRLANGGA"
+  },
+  {
+    "id": "91",
+    "image": "/images/91.png",
+    "name": "dr. Dwi Indah, Sp.GK",
+    "specialization": "Spesialis Gizi Klinik (Sp.GK)",
+    "hospital": "RS UMUM DAERAH BLAMBANGAN"
+  },
+  {
+    "id": "92",
+    "image": "/images/92.png",
+    "name": "dr. Kenan Alfian, Sp.S",
+    "specialization": "Spesialis Saraf (Sp.S)",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO"
+  },
+  {
+    "id": "93",
+    "image": "/images/93.png",
+    "name": "dr. Ayu Sartika, Sp.JP",
+    "specialization": "Spesialis Jantung (Sp.JP)",
+    "hospital": "RS UMUM DAERAH DR. SAIFUL ANWAR"
+  },
+  {
+    "id": "94",
+    "image": "/images/94.png",
+    "name": "dr. Lintang Cahya, Sp.M",
+    "specialization": "Spesialis Mata (Sp.M)",
+    "hospital": "RS UMUM DAERAH SIDOARJO"
+  },
+  {
+    "id": "95",
+    "image": "/images/95.png",
+    "name": "dr. Naufal Yusuf, Sp.PD",
+    "specialization": "Spesialis Penyakit Dalam (Sp.PD)",
+    "hospital": "RS UMUM DAERAH KABUPATEN KEDIRI"
+  },
+  {
+    "id": "96",
+    "image": "/images/96.png",
+    "name": "dr. Alifah Hidayati, Sp.KK",
+    "specialization": "Spesialis Kulit dan Kelamin (Sp.KK)",
+    "hospital": "RS UMUM DAERAH DR. R. KOESMA TUBAN"
+  },
+  {
+    "id": "97",
+    "image": "/images/97.png",
+    "name": "dr. Edwin Nugroho, Sp.BS",
+    "specialization": "Spesialis Bedah Saraf (Sp.BS)",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO"
+  },
+  {
+    "id": "98",
+    "image": "/images/98.png",
+    "name": "dr. Nanda Wibawa, Sp.OG",
+    "specialization": "Spesialis Kandungan (Sp.OG)",
+    "hospital": "RS UMUM DAERAH DR. SOEBANDI"
+  },
+  {
+    "id": "99",
+    "image": "/images/99.png",
+    "name": "dr. Reinaldy Firmansyah, Sp.THT-KL",
+    "specialization": "Spesialis THT-KL (Sp.THT-KL)",
+    "hospital": "RS UMUM DAERAH BLAMBANGAN"
+  },
+  {
+    "id": "100",
+    "image": "/images/100.png",
+    "name": "dr. Wulan Indah, Sp.KJ",
+    "specialization": "Spesialis Psikiatri / Jiwa (Sp.KJ)",
+    "hospital": "RS UMUM DAERAH DR. SOETOMO"
+  }
+]
