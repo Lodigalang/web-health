@@ -4,28 +4,28 @@
     "specialization": "Spesialis Anak (Sp.A)",
     "hospital": "RSUP DR. SARDJITO",
     "id": "1",
-    "image": "/images/1.png"
+    "image": "/images/1.webp"
   },
   {
     "name": "dr. Enrique Cremin, Sp.JP",
     "specialization": "Spesialis Jantung (Sp.JP)",
     "hospital": "RS UMUM AL DR MINTOHARJO",
     "id": "2",
-    "image": "/images/2.png"
+    "image": "/images/2.webp"
   },
   {
     "name": "dr. Rosalie Nitzsche, Sp.PD",
     "specialization": "Spesialis Penyakit Dalam (Sp.PD)",
     "hospital": "RS UMUM PAD GATOT SOEBROTO",
     "id": "3",
-    "image": "/images/3.png"
+    "image": "/images/3.webp"
   },
   {
     "name": "dr. Lula Barrows, Sp.B",
     "specialization": "Spesialis Bedah Umum (Sp.B)",
     "hospital": "RS UMUM BHAYANGKARA TK. I R.SAID SUKANTO",
     "id": "4",
-    "image": "/images/4.png"
+    "image": "/images/4.webp"
   },
   {
     "name": "dr. April Prosacco-Hegmann, Sp.BS",
